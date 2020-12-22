@@ -1,3 +1,3 @@
 # memoryGame
 
-match the card! 
+match the cards. 
